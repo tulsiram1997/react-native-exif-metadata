@@ -11,12 +11,9 @@ npm install react-native-exif-metadata
 ## Usage
 
 ```js
-import { multiply,saveImageMetaInformation } from 'react-native-exif-metadata';
+import { getMetaData,saveImageMetaInformation } from 'react-native-exif-metadata';
 
 // ...
-
-const result = await multiply(3, 7);
-
 await saveImageMetaInformation({
   base64String: "base64 image apth",
   latitude: 01.8797,
