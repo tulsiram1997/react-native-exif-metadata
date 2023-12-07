@@ -48,8 +48,8 @@ Supported props.
 | Prop       | Type     | Default | Description                              |
 |------------|----------|---------|------------------------------------------|
 | latitude   | `double` |  `0.0`  | default value is 0.0                     |
-| prop2      | `double` | `0.0`   | default value is 0.0                     |
-| prop3      | `bool`   |         | time in string 
+| longitude  | `double` | `0.0`   | default value is 0.0                     |
+| dateTime   | `string` |         | time in string 
 
 MIT
 
