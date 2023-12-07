@@ -38,6 +38,19 @@ See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the 
 
 ## License
 
+
+## ComponentName
+
+Description of your component.
+
+### Props
+
+| Prop       | Type     | Default | Description                              |
+|------------|----------|---------|------------------------------------------|
+| prop1      | `string` |         | Explanation of prop1                     |
+| prop2      | `number` | `0`     | Explanation of prop2 with a default value|
+| prop3      | `bool`   | `false` | Explanation of prop3 
+
 MIT
 
 ---

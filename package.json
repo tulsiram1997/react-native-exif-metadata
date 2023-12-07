@@ -1,6 +1,6 @@
 {
-  "name": "react-native-exif-metadata1",
-  "version": "0.1.6",
+  "name": "react-native-exif-metadata",
+  "version": "0.1.7",
   "description": "This package used to update or get image exif data.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
