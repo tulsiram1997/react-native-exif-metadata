@@ -1,6 +1,6 @@
 # react-native-exif-metadata
 
-This package used to update or get image exif data.
+This package used to update or get image meta data.
 
 ## Installation
 
