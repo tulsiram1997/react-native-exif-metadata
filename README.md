@@ -52,10 +52,4 @@ Supported props.
 |------------|----------|---------|------------------------------------------|
 | latitude   | `double` |  `0.0`  | default value is 0.0                     |
 | longitude  | `double` | `0.0`   | default value is 0.0                     |
-| dateTime   | `string` |         | time in string 
-
-MIT
-
----
-
-Made with [create-react-native-library](https://github.com/callstack/react-native-builder-bob)
+| dateTime   | `string` |         | time in string                           |
