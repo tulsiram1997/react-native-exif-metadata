@@ -4,6 +4,10 @@ This package used to update or get image exif data.
 
 ## Installation
 
+## Compatibility
+
+Only support android for now. require react-native >= 0.69
+
 ```sh
 npm install react-native-exif-metadata
 ```
